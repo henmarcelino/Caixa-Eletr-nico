@@ -10,10 +10,12 @@ namespace ConsoleView
     {
         static void Main(string[] args)
         {
-            int i = 0;
+            /*int i = 0;
             Console.WriteLine("Hello World");
 
-            i = int.Parse(Console.ReadLine());
+            i = int.Parse(Console.ReadLine());*/
+
+
 
             Console.ReadKey();
         }

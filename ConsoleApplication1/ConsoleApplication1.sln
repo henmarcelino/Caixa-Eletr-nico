@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{38015CDA-CF73-4EB4-A285-B507CBBBFDB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula", "Aula\Aula.csproj", "{7F3557BD-40C1-49CD-A199-FE2CAB3BEE19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleView", "ConsoleView\ConsoleView.csproj", "{819C3ED2-B117-4FA1-AB8A-3075C8B5B816}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caixa eletronico", "..\..\..\Documents\Visual Studio 2015\Projects\Caixa eletronico\Caixa eletronico\Caixa eletronico.csproj", "{E2E64008-F59D-4D8C-9FE5-9801280D3C25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{38015CDA-CF73-4EB4-A285-B507CBBBFDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{38015CDA-CF73-4EB4-A285-B507CBBBFDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{38015CDA-CF73-4EB4-A285-B507CBBBFDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{38015CDA-CF73-4EB4-A285-B507CBBBFDB7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{819C3ED2-B117-4FA1-AB8A-3075C8B5B816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{819C3ED2-B117-4FA1-AB8A-3075C8B5B816}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{819C3ED2-B117-4FA1-AB8A-3075C8B5B816}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{819C3ED2-B117-4FA1-AB8A-3075C8B5B816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F3557BD-40C1-49CD-A199-FE2CAB3BEE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3557BD-40C1-49CD-A199-FE2CAB3BEE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3557BD-40C1-49CD-A199-FE2CAB3BEE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3557BD-40C1-49CD-A199-FE2CAB3BEE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2E64008-F59D-4D8C-9FE5-9801280D3C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E64008-F59D-4D8C-9FE5-9801280D3C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E64008-F59D-4D8C-9FE5-9801280D3C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E64008-F59D-4D8C-9FE5-9801280D3C25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
